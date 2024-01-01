@@ -1,0 +1,14 @@
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/CMakeFiles/install.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/CMakeFiles/install/local.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/CMakeFiles/flutter_login_signup.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/media/sam/cc84b507-63e3-4f3a-9e63-b3e2bc20d43a/android tests/Flutter-Login-Page-Design-Tutorial-In-Hindi-Urdu/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
